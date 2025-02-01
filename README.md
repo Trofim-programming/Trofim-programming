@@ -27,11 +27,6 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Trofim-programming&theme=onestar)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trofim-programmingtheme=react)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trofim-programming_icons=true&theme=tokyonight)
-
-
 ---
 
 ## 📌 Проекты:

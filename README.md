@@ -45,5 +45,10 @@
 
 ---
 
+## 📅 Календарь 
+
+![GitHub Calendar](https://github.com/Trofim-programming/Trofim-programming/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ✨ **Спасибо, что заглянул на мой профиль!** ✨

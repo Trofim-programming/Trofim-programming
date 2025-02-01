@@ -47,7 +47,8 @@
 
 ## 📅 Календарь 
 
-![GitHub Calendar](https://github.com/Trofim-programming/Trofim-programming/blob/output/github-contribution-grid-snake.svg)
+![GitHub Calendar](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 

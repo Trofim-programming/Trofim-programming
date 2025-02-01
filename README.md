@@ -25,6 +25,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Trofim-programming&theme=onestar)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trofim-programmingtheme=react)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trofim-programming_icons=true&theme=tokyonight)
+
+
 ---
 
 ## 📌 Проекты:
@@ -42,5 +49,6 @@
 [![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trofimzivilik14@gmail.com)
 
 ---
+
 
 ✨ **Спасибо, что заглянул на мой профиль!** ✨

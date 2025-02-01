@@ -49,7 +49,6 @@
 
 ![GitHub Calendar](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 
-
 ---
 
 ✨ **Спасибо, что заглянул на мой профиль!** ✨

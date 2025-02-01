@@ -45,14 +45,4 @@
 
 ---
 
-## 🖼 Изображение 
-
-![GitHub Skyline](https://your-skyline-image-link.com)
-
-
----
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=default)](https://open.spotify.com/user/YourSpotifyID)
-
-
 ✨ **Спасибо, что заглянул на мой профиль!** ✨

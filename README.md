@@ -45,4 +45,7 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Привет,+я+Живилик+Трофим+Иванович!;Я+разрабатываю+крутые+проекты!;Изучаю+Python,+JS+и+веб-разработку!)](https://github.com/YourGitHubUsername)
+
+
 ✨ **Спасибо, что заглянул на мой профиль!** ✨

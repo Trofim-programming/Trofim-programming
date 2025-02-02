@@ -1,27 +1,26 @@
-name: 🤖 Issue Bot
+name: 🤖 Чат-бот
 
 on:
-  issues:
-    types: [opened]
+  push:
+  workflow_dispatch:
 
 jobs:
-  bot_reply:
+  run-bot:
     runs-on: ubuntu-latest
     steps:
-      - name: 💬 Ответ на новый Issue
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const issue = context.payload.issue;
-            const author = issue.user.login;
-            const message = `Привет, @${author}! 👋 Спасибо за твой Issue. Наши разработчики скоро ответят! 🚀`;
+      - name: 📥 Клонируем репозиторий
+        uses: actions/checkout@v3
 
-            github.rest.issues.createComment({
-              issue_number: issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: message
-            });
+      - name: 🐍 Устанавливаем Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: 📦 Устанавливаем зависимости
+        run: pip install -r requirements.txt || echo "Нет зависимостей"
+
+      - name: 🚀 Запускаем бота
+        run: python bot.py
+
 
 

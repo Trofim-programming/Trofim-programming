@@ -9,7 +9,7 @@
 
 Меня зовут **Трофим**, и я увлекаюсь программированием. Мне нравится создавать веб-приложения, ботов и интересные проекты. В будущем я хочу стать профессиональным разработчиком и сделать что-то великое в мире технологий! 
 
-[![Click Me](https://img.shields.io/badge/CLICK_ME-ff69b4?style=for-the-badge)](https://your-link.com)
+![Repositories](https://komarev.com/ghpvc/?username=Trofim-programming&style=for-the-badge&color=red)
 
 ---
 

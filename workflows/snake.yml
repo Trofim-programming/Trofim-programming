@@ -1,26 +1,27 @@
-name: Update Calendar
+name: 🤖 Issue Bot
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Это обновит каждый день
-  workflow_dispatch:
+  issues:
+    types: [opened]
 
 jobs:
-  update-calendar:
+  bot_reply:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Update Contribution Snake
-        uses: Platane/snk@v2
+      - name: 💬 Ответ на новый Issue
+        uses: actions/github-script@v6
         with:
-          github_user: 'Trofim-programming'
-          file_name: 'assets/github-contribution-grid-snake.svg'
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "Trofim-programming"
-          git config --global user.email "trofimzivilik14@gmail.com"
-          git add .
-          git commit -m "Update contribution calendar"
-          git push
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            const author = issue.user.login;
+            const message = `Привет, @${author}! 👋 Спасибо за твой Issue. Наши разработчики скоро ответят! 🚀`;
+
+            github.rest.issues.createComment({
+              issue_number: issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message
+            });
+
 

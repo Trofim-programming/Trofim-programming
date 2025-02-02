@@ -11,6 +11,11 @@
 
 ![snake gif](https:/Trofim-programming/github.com//Trofim-programming/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Cat](https://octodex.github.com/images/minion.png)
+
+[![Twitch](https://img.shields.io/twitch/status/your_twitch_username?style=social)](https://www.twitch.tv/your_twitch_username)
+
+
 ---
 
        ⠀⠀⠀⠀⠀⠀  👨‍💻⠀⠀⠀⠀⠀⠀

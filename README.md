@@ -9,12 +9,6 @@
 
 Меня зовут **Трофим**, и я увлекаюсь программированием. Мне нравится создавать веб-приложения, ботов и интересные проекты. В будущем я хочу стать профессиональным разработчиком и сделать что-то великое в мире технологий! 
 
-![snake gif](https:/Trofim-programming/github.com//Trofim-programming/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Cat](https://octodex.github.com/images/minion.png)
-
-[![Twitch](https://img.shields.io/twitch/status/your_twitch_username?style=social)](https://www.twitch.tv/your_twitch_username)
-
 
 ---
 

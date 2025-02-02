@@ -9,13 +9,7 @@
 
 Меня зовут **Трофим**, и я увлекаюсь программированием. Мне нравится создавать веб-приложения, ботов и интересные проекты. В будущем я хочу стать профессиональным разработчиком и сделать что-то великое в мире технологий! 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark-theme-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="light-theme-image.png">
-  <img alt="My GitHub Banner" src="default-image.png">
-</picture>
-
-<img src="https://raw.githubusercontent.com/Trofim-programming/Trofim-programming/main/assets/wave.gif" width="100%">
+---
 
        ⠀⠀⠀⠀⠀⠀  👨‍💻⠀⠀⠀⠀⠀⠀
        ⠀⠀⠀⠀⠀⠀╭━━━━━╮⠀⠀⠀
